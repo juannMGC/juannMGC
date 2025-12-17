@@ -1,55 +1,51 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Hi, I'm Juan Manuel Garcia Cifuentes 🧔🏻
 
-###
+In this repository you can find some projects that I use to study libraries and frameworks, even for companies or teamwork.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+ <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" height="200px" />
 
-###
+[![Linkedin Badge](https://img.shields.io/badge/-Sebastian%20Roa%20Meneses-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serome111/)](https://www.linkedin.com/in/serome111/)
+[![Torrente](https://img.shields.io/twitter/url?label=TorrenteSoftware&logo=Telegraph&logoColor=blue&style=social&url=https%3A%2F%2Fgithub.com%2Ftorrentesofware)](https://github.com/torrentesofware/)
 
-<h1 align="center">hey there 👋</h1>
+# Knowledges :mortar_board:
+## Back-End
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat-square&logo=Python&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![Django](https://img.shields.io/badge/-Django-2D?style=flat-square&logo=Django&link=https://github.com/serome111/)](https://github.com/serome111/)
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
+## Front-End
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![Bootstrap%205](https://img.shields.io/badge/-Bootstrap%205-563D7C?style=flat-square&logo=bootstrap%205&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/serome111/)](https://github.com/serome111/)
 
-###
+## CMS
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&link=https://github.com/serome111/)](https://github.com/serome111/)
+## Databases
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/serome111/)](https://github.com/serome111/)
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+## Deploy
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-17158e?style=flat-square&logo=digitalocean&link=https://github.com/serome111/)](https://github.com/serome111/)
 
-###
+## Version control
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-17158e?style=flat-square&logo=Bitbucket&link=https://github.com/serome111/)](https://github.com/serome111/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/serome111/)](https://github.com/serome111/)
 
-<h3 align="left">🛠 Language and tools</h3>
+## Learning
+- 🕴 Software Architecture.
+- 🎯 Design patterns.
+- 👨🏻‍💻 Red Team Security
+- 💻 Deep learning
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+All the time in constant research and study.
