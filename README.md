@@ -13,7 +13,7 @@ Backend / Cloud Engineer en crecimiento, con experiencia real y mentalidad profe
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/juannmgc">
+  <a href="https://www.linkedin.com/in/10juanmgc">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/juannmgc">
