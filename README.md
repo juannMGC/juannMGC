@@ -6,7 +6,7 @@
   />
 </div>
 
-<h1 align="center">Hola, soy Juan Manuel Garcia Cifuentes 🧔🏻</h1>
+<h1 align="center">Hola, soy Juan Manuel Garcia Cifuentes 👨‍💻​</h1>
 
 <p align="center">
 Backend / Cloud Engineer en crecimiento, con experiencia real y mentalidad profesional.
