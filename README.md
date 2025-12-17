@@ -23,7 +23,7 @@ Backend / Cloud Engineer en crecimiento, con experiencia real y mentalidad profe
 
 ---
 
-## 📚 Knowledges
+##  Knowledges
 
 ###  Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -52,7 +52,7 @@ Backend / Cloud Engineer en crecimiento, con experiencia real y mentalidad profe
 
 ---
 
-### 📊 Data Analytics
+###  Data Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
