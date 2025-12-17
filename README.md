@@ -1,8 +1,15 @@
-#Hola, soy Juan Manuel Garcia Cifuentes 🧔🏻
+# Hola, soy Juan Manuel Garcia Cifuentes 🧔🏻
 
+En este repositorio podrás encontrar algunos proyectos que utilizo.
 Soy Backend / Cloud Engineer en crecimiento, con experiencia real y mentalidad profesional.
 
- <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" height="200px" />
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+    alt="Developer working animation"
+    height="160"
+  />
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sebastian%20Roa%20Meneses-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serome111/)](https://www.linkedin.com/in/serome111/)
 [![Torrente](https://img.shields.io/twitter/url?label=TorrenteSoftware&logo=Telegraph&logoColor=blue&style=social&url=https%3A%2F%2Fgithub.com%2Ftorrentesofware)](https://github.com/torrentesofware/)
