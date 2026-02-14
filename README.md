@@ -8,6 +8,10 @@
 
 <h1 align="center">Hola, soy Juan Manuel Garcia Cifuentes 👨‍💻​</h1>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=juannmgc&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</div>
+
 <p align="center">
 Backend / Cloud Engineer en crecimiento, con experiencia real y mentalidad profesional.
 </p>
